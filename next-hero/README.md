@@ -38,7 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 # 76.1 - react vs next js - should watch again
 # 76.2 - install nextjs, folder structure etc
-# 76.3 - about different file-folders, folder structure,globals.css - global/full app css, favicon, title/metadata
+# 76.3 - about different file-folders, folder structure, globals.css - global/full app css, favicon, title/metadata
 # 76.4 - route, folder/components structure
 # 76.5 - navbar, navigation, active link, use client
 # 76.6 - nested routing, dynamic route - have to do
@@ -47,4 +47,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # 76.9 - network throttle - slow/fast, loading spinner, 404/error page  
 # 76.10 - middleware, like private route, cookie set manually
 
-# 77.1 - 
+# 77.1 - rendering - important concep
+# 77.2 - SEO, performance, what is hydretion, ssr-ssg, very important concep
+# 77.3 - data render - server side, fetch, map, slice, post api
+# 77.4 - dynamic route - using id single data fetch
+# 77.5 - search, very important for SEO, image 
+# 77.6 - styling - css
