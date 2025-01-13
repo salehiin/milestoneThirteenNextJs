@@ -53,3 +53,25 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # 77.4 - dynamic route - using id single data fetch
 # 77.5 - search, very important for SEO, image 
 # 77.6 - styling - css
+
+# 78.1 - details of metadata, dynamic meta tag, very important for SEO
+# 78.2 - image optimization, font use 
+# 78.3 - Caching and Revalidating, current time display
+# 78.4 - loading spinner
+# 78.5 - redirect to several pages
+# 78.6 - environment variables
+# 78.7 - deploy
+# 78.8 - deploy in different style - Export Static HTML Page with Build
+
+# 79.1 - create api, CRUD, set cookies
+# 79.2 - authentication setup
+# next-auth.js.org
+# 79.3 - login with email-password
+# 79.4 - following, session
+# 79.5 - following, user role
+# picsum.photos
+# 79.6 - log out, redirect after log in/out
+# 79.7 - sign up/registration, install mongodb 
+# 79.8 - set user roll, user create in database, login
+# 79.9 - google login
+# 79.10 - github login
